@@ -1,11 +1,6 @@
 
 
-# House Price Prediction Project using ML
-
-######NOTE:
-this project is uploaded for the purposes of learning explaining various predictive aspects of Machine Learning
-This project focuses on predicting house prices using various regression techniques such as linear regression, Lasso regression, and Ridge regression. We utilize a dataset containing features like "Overall Qual," "Gr Liv Area," "Central Air," and more, to train and evaluate the models. Additionally, we extend the feature set by including polynomial features of degree 3 and analyze their impact on model performance.
-
+ House Price Prediction Project using ML
 ## Table of Contents
 - [Overview](#overview)
 - [Dataset](#dataset)
